@@ -2,6 +2,12 @@
 
 The Food App is a simple web application that showcases different food items categorized into breakfast, lunch, dinner, and juices. Users can explore the available food items, filter them by category, and view their details.
 
+### Project Link
+
+Here is the live link : [Food-explorer-functionality](https://food-explorer-functionality.netlify.app/)
+
+Here is the link to the project: [Food-explorer-functionality](https://github.com/Ashique01/Food-explorer-functionality)
+
 ## Features
 
 - Display a list of food items with their names, descriptions, prices, and images.
@@ -11,7 +17,7 @@ The Food App is a simple web application that showcases different food items cat
 
 ## Technologies Used
 
-- React: A JavaScript library for building user interfaces.
+- React A JavaScript library for building user interfaces.
 - Bootstrap: A popular CSS framework for creating responsive and visually appealing web pages.
 - JavaScript: The programming language used for the logic and interactivity of the application.
 
@@ -21,9 +27,9 @@ The Food App is a simple web application that showcases different food items cat
 
    ```bash
    git clone https://github.com/your-username/food-app.git
-2. Navigate to the project directory: `cd food-explorer-functionalityp`
+2. Navigate to the project directory: `cd food-explorer-functionality
 3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm start
 5. Open your browser and visit `http://localhost:{port}` to see the Food App in action.
 
 ## Usage
