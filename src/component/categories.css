@@ -1,0 +1,7 @@
+.category-style {
+  font-size: 12px;
+}
+.category-style:hover {
+  cursor: pointer;
+  color: rgb(113, 4, 255);
+}
