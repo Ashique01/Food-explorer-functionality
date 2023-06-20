@@ -77,7 +77,7 @@ const data = [
       "Zesty and tangy orange juice packed with vitamin C and natural goodness.",
     price: 3.99,
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpm-ju_EcHDmywOwfaJ41OdOyqGtsxqkVsQ&usqp=CAU",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Orangejuice.jpg",
   },
   {
     id: 9,
