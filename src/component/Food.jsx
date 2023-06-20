@@ -24,7 +24,7 @@ function Food({ foods }) {
                         {name}
                       </h6>
                       <h6 style={{ fontSize: "12px", fontWeight: "bold" }}>
-                        {price}
+                        {price}$
                       </h6>
                     </div>
                     <div className="text-start mt-2">
